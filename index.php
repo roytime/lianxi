@@ -13,3 +13,4 @@ echo "in dev branch";
 echo "in master & devnew branch";
 echo "duo yihang ";
 echo "new dev add";
+echo "for pull";
