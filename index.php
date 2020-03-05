@@ -10,5 +10,5 @@ echo "third modify";
 echo "fifth modify";
 echo "sixth modify";
 echo "in dev branch";
-echo "in master branch";
+echo "in master & devnew branch";
 echo "duo yihang ";
